@@ -1,4 +1,7 @@
+# Ex.No13_Learning_miniproject
 # Implementation-of-SVM-For-Spam-Mail-Detection
+### DATE:                                                                            
+### REGISTER NUMBER : 212221040177
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
